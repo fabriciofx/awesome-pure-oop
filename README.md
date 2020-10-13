@@ -26,3 +26,4 @@ Pure object oriented programming means the following:
 * [Yegor Bugaenko blog](https://www.yegor256.com)
 * [Pragmatic adaptation of Elegant Objects by Kapralov Sergey](https://www.pragmaticobjects.com)
 * [Why objects must be immutable (By Jérôme Loisel )](https://octoperf.com/blog/2016/04/07/why-objects-must-be-immutable)
+* [Object Pascal Programming (in Portuguese)](http://www.objectpascalprogramming.com)
